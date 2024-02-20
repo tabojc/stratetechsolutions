@@ -1,8 +1,8 @@
 {
-  "name": "nebulix",
+  "name": "stratetechsolutions",
   "type": "module",
   "license": "CC BY-ND 4.0",
-  "version": "0.1.9",
+  "version": "0.0.1",
   "keywords": [
     "astro",
     "Static CMS",
